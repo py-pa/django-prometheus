@@ -30,7 +30,7 @@ Export Django monitoring metrics for Prometheus.io
   version.**
 
 
-# django-promethesu
+# django-prometheus
 
 ## Usage
 
